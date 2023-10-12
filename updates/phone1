@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-10-12",
+      "datetime": "1697086828",
+      "filename": "qQlqz.zip",
+      "url": "http://bashupload.com/59cP7/qQlqz.zip?download=1",
+      "recovery_sha256": "6acdef17ffddf2a2ae8bf6022d51ac0a3031c10094878b36335d54b89085cb45",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-9-phone1-20230916-image.zip",
+      "fastboot_sha256": "6acdef17ffddf2a2ae8bf6022d51ac0a3031c10094878b36335d54b89085cb45",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-10",
+      "size": "2216260071",
+      "build_type": "Stable",
+      "version_code": "10",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-10-05",
+      "changelog_device": "Improved performance, Improved auto brightness"
+    },
+    {
       "date": "2023-09-16",
       "datetime": "1694899555",
       "filename": "aospa-topaz-9-phone1-20230916.zip",
