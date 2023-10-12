@@ -4,7 +4,7 @@
       "date": "2023-10-12",
       "datetime": "1697086828",
       "filename": "aospa_phone1-ota-eng.sheshuv.zip",
-      "url": "https://pixeldrain.com/u/h2PuXXoV?download",
+      "url": "https://pixeldrain.com/api/file/h2PuXXoV?download",
       "recovery_sha256": "6acdef17ffddf2a2ae8bf6022d51ac0a3031c10094878b36335d54b8908",
       "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-9-phone1-20230916-image.zip",
       "fastboot_sha256": "6acdef17ffddf2a2ae8bf6022d51ac0a3031c10094878b36335d54b89085cb45",
